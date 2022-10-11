@@ -1,6 +1,6 @@
-echo "# Second-project" >> README.md
+echo "# Second-project" >> TEST1.txt
 git init
-git add README.md
+git add TEST1.txt
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Poonam-lahade/Second-project.git
